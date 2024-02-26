@@ -9,6 +9,10 @@ h1 {
   font-size: 40px;
 }
 
+nav {
+  color: white;
+}
+
 nav ul {
   list-style-type:none;
   color: white;
@@ -19,7 +23,7 @@ nav ul {
 nav ul li {
   display: inline;
   border-right: 2px solid
-  #111111;
+  #000000;
   padding-right: 8px;
   padding-left: 8px;
 }
