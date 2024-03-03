@@ -10,12 +10,12 @@ h1 {
 }
 
 nav {
-  color: white;
+  color: #FFFFFF;
 }
 
 nav ul {
   list-style-type:none;
-  color: white;
+  color: #FFFFFF;
   background-color: black;
   font-weight: bold;
   padding: 16px;
@@ -23,7 +23,7 @@ nav ul {
 nav ul li {
   display: inline;
   border-right: 2px solid
-  #000000;
+  #FFFFFF;
   padding-right: 8px;
   padding-left: 8px;
 }
