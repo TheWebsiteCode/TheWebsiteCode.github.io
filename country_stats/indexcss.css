@@ -13,4 +13,95 @@ h1 {
   font-size: 40px;
 }
 
+#na:hover {
+  color: black;
+  background-color: transparent;
+}
 
+#na:link {
+  color: white;
+}
+
+#na:active {
+  color: black
+  background-color: white;
+}
+
+#na:visted {
+  color: white;
+}
+
+#sa:hover {
+  color: black;
+  background-color: transparent;
+}
+
+#sa:link {
+  color: wsite;
+}
+
+#sa:active {
+  color: bsack
+  background-color: white;
+}
+
+#sa:visted {
+  color: wsite;
+}
+
+#af:hover {
+  color: black;
+  background-color: transparent;
+}
+
+#af:link {
+  color: white;
+}
+
+#af:active {
+  color: black
+  background-color: white;
+}
+
+#af:visted {
+  color: white;
+}
+
+#eu:hover {
+  color: black;
+  background-color: transparent;
+}
+
+#eu:link {
+  color: white;
+}
+
+#eu:active {
+  color: black
+  background-color: white;
+}
+
+#eu:visted {
+  color: white;
+}
+
+nav ul {
+  list-style-type: none;
+  background-color: black;
+  padding: 16px;
+}
+
+nav ul li {
+  display: inline;
+  border-right: 2px solid #FFFFFF;
+  padding-right: 8px;
+  padding-left: 8px;
+}
+
+nav ul li: last-child {
+  border-right: none;
+}
+
+nav ul li a {
+  text-decoration: none;
+}
