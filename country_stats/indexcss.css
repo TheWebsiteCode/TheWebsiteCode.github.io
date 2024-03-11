@@ -89,6 +89,7 @@ nav ul {
   list-style-type: none;
   background-color: black;
   padding: 16px;
+  font-weight: bold;
 }
 
 nav ul li {
