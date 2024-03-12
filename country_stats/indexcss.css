@@ -4,10 +4,6 @@ body {
   font-family: 'Montserrat', sans-serif;
 }
 
-#menubar {
-  color: white;
-}
-
 h1 {
   text-align: center;
   font-size: 40px;
@@ -34,4 +30,12 @@ nav ul li: last-child {
 nav ul li a {
   text-decoration: none;
   color: white;
+}
+
+.topnav li a:hover {
+  border-bottom: 3px solid white;
+}
+
+.topnav li a.active {
+  border-bottom: 3px solid white;
 }
