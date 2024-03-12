@@ -11,6 +11,10 @@ h1 {
   font-size: 40px;
 }
 
+h2 {
+  text-align: center;
+}
+
 nav ul {
   list-style-type: none;
   background-color: black;
