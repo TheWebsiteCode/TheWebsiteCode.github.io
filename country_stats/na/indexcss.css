@@ -45,3 +45,15 @@ nav ul li a {
 .topnav li a.active {
   border-bottom: 3px solid white;
 }
+
+h1 a:hover {
+  color: pewter;
+}
+
+h1 a: active {
+  color: white;
+}
+
+h1 a:link{
+  color: white;
+}
