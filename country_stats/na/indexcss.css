@@ -46,14 +46,6 @@ nav ul li a {
   border-bottom: 3px solid white;
 }
 
-h1 a:hover {
-  color: pewter;
-}
-
-h1 a: active {
-  color: white;
-}
-
-h1 a:link{
-  color: white;
+h1 a {
+  color:white;
 }
